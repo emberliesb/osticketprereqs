@@ -22,6 +22,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+[Your installation Link Resources]
+
+<a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6" rel="nofollow">https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6</a>
+
 <p>
 <img src="https://camo.githubusercontent.com/6638fe24179160bdb20c0e2ce6f4cb12b86ff4e449b902d266df73ea519191c9/68747470733a2f2f692e696d6775722e636f6d2f6b4d70306a437a2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -162,7 +166,7 @@ Select 'CGI' and then click 'Ok'.
 <img src="https://camo.githubusercontent.com/9a449b412d66e9705e0d1e12627d4795eda6ed384634cc5cbaf7df9ed2ec77b0/68747470733a2f2f692e696d6775722e636f6d2f3430375147656d2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Go to your Windows search, type in IIS, and open IIS as an adminstrator
 </p>
 <br />
 
@@ -170,7 +174,7 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="https://camo.githubusercontent.com/c09fa18cb65057e5287961184d91722d5d5253404882663a4bae4b19d54c9757/68747470733a2f2f692e696d6775722e636f6d2f7349494b49736f2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Once open, click on PHP manager
 </p>
 <br />
 
@@ -178,7 +182,7 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="https://camo.githubusercontent.com/816e38a78145f8156c03be56a316596522ad5a246dae730b57f70c4c1579caf7/68747470733a2f2f692e696d6775722e636f6d2f5a4239397a58732e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Now, once you open PHP Manager, go to Register PHP version, then click the three dots. Next, find your PHP folder and click on it. Inside, click on php.cgi. (Also, restart your IIS in the manage sever.)
 </p>
 <br />
 
@@ -186,7 +190,7 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="https://camo.githubusercontent.com/942359c2ce3b019845f3983cee997e87cdc4d6549d8bee70db04191941053189/68747470733a2f2f692e696d6775722e636f6d2f4d704459566f382e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+"Install osTicket v1.15.8. Download osTicket from the Installation Files Folder. Extract and copy the "upload" folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, rename "upload" to "osTicket"." (Also, restart your IIS in the manage sever. After these steps)
 </p>
 <br />
 
@@ -194,7 +198,7 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="https://camo.githubusercontent.com/3c74fab1cff40be6811627a1c7de47ddca83ed8f8721852bf6122adbd2efe184/68747470733a2f2f692e696d6775722e636f6d2f416632664153512e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Go to sites -> Default -> osTicket On the right, click “Browse *:80”
 </p>
 <br />
 
@@ -202,15 +206,12 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="https://camo.githubusercontent.com/8aa8a1dde97b19f4567549730618369a2a7f4bd027abfd70c40eb59da17c4619/68747470733a2f2f692e696d6775722e636f6d2f756b53737848582e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+"After clicking on browser 80, a pop-up for osTicket should appear on your screen, Now you are halfway through the process.
 </p>
 <br />
 
 <p>
 <img src="https://camo.githubusercontent.com/c604a7032525992bc81891bdd18e05f3faf126b7862809de50e2a68365742bfc/68747470733a2f2f692e696d6775722e636f6d2f423069434470332e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
 </p>
 <br />
 
@@ -218,7 +219,7 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="https://camo.githubusercontent.com/d0bdb5cfe595632a6985b5920f4e9b946539b9c629bc04d6510083a4fdb7af40/68747470733a2f2f692e696d6775722e636f6d2f6a4170486b39762e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Follow, The step provided on the picture above
 </p>
 <br />
 
@@ -226,23 +227,19 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="https://camo.githubusercontent.com/3e37ca526ed42bafed09c548482d4bbdf7d9950676e206adc48437602ca228ed/68747470733a2f2f692e696d6775722e636f6d2f7075394644714a2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Rename: ost-config.php 1.From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
+2.To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
 
 <p>
 <img src="https://camo.githubusercontent.com/b1ccb0a2cf49e47389008cfbc755d5444e4f700608d45794440e345a9c80bf18/68747470733a2f2f692e696d6775722e636f6d2f724438536e454d2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
-</p>
 <br />
 
 <p>
 <img src="https://camo.githubusercontent.com/64feb406d8bf7a9436af753ee29cc098b6f68ce7510236377c1a82cc019e18fa/68747470733a2f2f692e696d6775722e636f6d2f706557465974792e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
 </p>
 <br />
 
@@ -250,7 +247,7 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="https://camo.githubusercontent.com/7d39b02bb47cfed31ccc64ee4b652656c2ac2eecd1f0ce3b5122a0b36a70888f/68747470733a2f2f692e696d6775722e636f6d2f415361307a63582e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Next, Assign Permissions: ost-config.php ( Right Click, Click properties, Click security) Disable inheritance -> Remove All New Permissions -> Everyone -> All
 </p>
 <br />
 
@@ -258,15 +255,12 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Continue Setting up osTicket in the browser (click Continue)
 </p>
 <br />
 
 <p>
 <img src="https://camo.githubusercontent.com/048fb25b7c964783a27e1d1e1b33a6b4c5824e2678c5be679ca3c6f719d5443a/68747470733a2f2f692e696d6775722e636f6d2f6f5872545356722e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
 </p>
 <br />
 
@@ -274,7 +268,7 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="https://camo.githubusercontent.com/dca4e5677fc4c345b543767fd3c79bdf506a226387ee7a21a2ce0f1556db1a8c/68747470733a2f2f692e696d6775722e636f6d2f48726f564e78762e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Download HeidiSQL. ( Follow These Steps) 1.Open Heidi SQL 2.Create a new session, root/Password1 3.Connect to the session 4.Create a database called “osTicket
 </p>
 <br />
 
@@ -282,7 +276,7 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Continue Setting up osticket in the browser MySQL Database: osTicket, MySQL Username: root, MySQL Password: Password1, Click “Install Now!”
 </p>
 <br />
 
