@@ -77,16 +77,13 @@ Click 'Create + Review', after it finishes processing proceed to click 'Create'
 <p>
 <img src="https://camo.githubusercontent.com/b6adbaf4094881fbe9c8c37e59ce58afe328e264ae5e4ca341b826d62a7ef9ee/68747470733a2f2f692e696d6775722e636f6d2f4b4958475a784d2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Once done click 'Go To Resources'
-</p>
-<br />
 
 <p>
 <img src="https://camo.githubusercontent.com/e12902f4a9591cec7b91a3e07342ff0f2e4950c84467ff495c2dae93b287e2d1/68747470733a2f2f692e696d6775722e636f6d2f6b354c786c31632e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p> 
+
 <p>
-Click on the copy icon next to the Public Ip address, and then pull up Remote Desktop on your computer. (Window Users simply need to look up the application on Start) (Mac Users will need to download Microsoft RDP first)
+Once done click 'Go To Resources'
 </p>
 <br />
 
@@ -94,7 +91,7 @@ Click on the copy icon next to the Public Ip address, and then pull up Remote De
 <img src="https://camo.githubusercontent.com/7ff31e5670f1dfeab09566d5030289cdcbf1ff7b6f30ede1ec094ab8ed867971/68747470733a2f2f692e696d6775722e636f6d2f6d536a6a3057522e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Paste your Vms Public IP address.
+Click on the copy icon next to the Public Ip address, and then pull up Remote Desktop on your computer. (Window Users simply need to look up the application on Start) (Mac Users will need to download Microsoft RDP first)
 </p>
 <br />
 
@@ -102,12 +99,20 @@ Paste your Vms Public IP address.
 <img src="https://camo.githubusercontent.com/0faef72850642a8fbe02da940a10e25c5518f622284e5db88a07b603a6d79d71/68747470733a2f2f692e696d6775722e636f6d2f713946465a78472e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After you have pasted the IP, click on 'Show Options'. When you've click 'Options' proceed on entering your username and password you made when creating the machine in Azure
+Paste your Vms Public IP address.
 </p>
 <br />
 
 <p>
 <img src="https://camo.githubusercontent.com/a9c4eaa3f5678d505c407a10ebf26efc2b88bb7362ad808a21ef251dac159363/68747470733a2f2f692e696d6775722e636f6d2f477636775578432e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After you have pasted the IP, click on 'Show Options'. When you've click 'Options' proceed on entering your username and password you made when creating the machine in Azure
+</p>
+<br />
+
+<p>
+<img src="https://camo.githubusercontent.com/f5e5a406c682a8eb91239da638cde16a9bae980d90c54e94667660b4a57fe3a1/68747470733a2f2f692e696d6775722e636f6d2f6f417146536d412e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Once you log in successfully, you will be on the home screen, follow the steps below
@@ -134,7 +139,7 @@ Click the box next to 'Internet Information Services' and then click the '+' sig
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/f5e5a406c682a8eb91239da638cde16a9bae980d90c54e94667660b4a57fe3a1/68747470733a2f2f692e696d6775722e636f6d2f6f417146536d412e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://camo.githubusercontent.com/6f7f90e42952ae0da8d1a74bbda6fa450efd328aafd1bea1b114b9df728b8084/68747470733a2f2f692e696d6775722e636f6d2f4c4b56526679352e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Select 'CGI' and then click 'Ok'.
@@ -142,15 +147,7 @@ Select 'CGI' and then click 'Ok'.
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/6f7f90e42952ae0da8d1a74bbda6fa450efd328aafd1bea1b114b9df728b8084/68747470733a2f2f692e696d6775722e636f6d2f4c4b56526679352e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-<p>
 <img src="https://camo.githubusercontent.com/97ac973df1624db1c61d90827f49c1d057dcc34a9dedd9457cf7d961d5bd7640/68747470733a2f2f692e696d6775722e636f6d2f787630554357772e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-"After installing IIS, create the directory C:\PHP. Then, after downloading PHP 7.3.8, right-click on the downloaded PHP file and click 'Extract All'. Next, click 'Browse' to find your PHP file, and then click 'Extract'."
 </p>
 <br />
 
@@ -158,7 +155,7 @@ Select 'CGI' and then click 'Ok'.
 <img src="https://camo.githubusercontent.com/02a3e8a9ac6742a1f570b93ba3744eee6ef311ed1c0bc4be652a93483287c151/68747470733a2f2f692e696d6775722e636f6d2f334d45704b7a672e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"Next, download the VC_redist.x86.exe file. Afterwards, download MySQL 5.5.62 (mysql-5.5.62-win32.msi), and then apply these steps. Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Password1 "
+"After installing IIS, create the directory C:\PHP. Then, after downloading PHP 7.3.8, right-click on the downloaded PHP file and click 'Extract All'. Next, click 'Browse' to find your PHP file, and then click 'Extract'."
 </p>
 <br />
 
@@ -166,7 +163,7 @@ Select 'CGI' and then click 'Ok'.
 <img src="https://camo.githubusercontent.com/9a449b412d66e9705e0d1e12627d4795eda6ed384634cc5cbaf7df9ed2ec77b0/68747470733a2f2f692e696d6775722e636f6d2f3430375147656d2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to your Windows search, type in IIS, and open IIS as an adminstrator
+"Next, download the VC_redist.x86.exe file. Afterwards, download MySQL 5.5.62 (mysql-5.5.62-win32.msi), and then apply these steps. Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Password1 "
 </p>
 <br />
 
@@ -174,7 +171,7 @@ Go to your Windows search, type in IIS, and open IIS as an adminstrator
 <img src="https://camo.githubusercontent.com/c09fa18cb65057e5287961184d91722d5d5253404882663a4bae4b19d54c9757/68747470733a2f2f692e696d6775722e636f6d2f7349494b49736f2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once open, click on PHP manager
+Go to your Windows search, type in IIS, and open IIS as an adminstrator
 </p>
 <br />
 
@@ -182,15 +179,14 @@ Once open, click on PHP manager
 <img src="https://camo.githubusercontent.com/816e38a78145f8156c03be56a316596522ad5a246dae730b57f70c4c1579caf7/68747470733a2f2f692e696d6775722e636f6d2f5a4239397a58732e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now, once you open PHP Manager, go to Register PHP version, then click the three dots. Next, find your PHP folder and click on it. Inside, click on php.cgi. (Also, restart your IIS in the manage sever.)
+Once open, click on PHP manager
 </p>
 <br />
 
-<p>
 <img src="https://camo.githubusercontent.com/942359c2ce3b019845f3983cee997e87cdc4d6549d8bee70db04191941053189/68747470733a2f2f692e696d6775722e636f6d2f4d704459566f382e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"Install osTicket v1.15.8. Download osTicket from the Installation Files Folder. Extract and copy the "upload" folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, rename "upload" to "osTicket"." (Also, restart your IIS in the manage sever. After these steps)
+Now, once you open PHP Manager, go to Register PHP version, then click the three dots. Next, find your PHP folder and click on it. Inside, click on php.cgi. (Also, restart your IIS in the manage sever.)
 </p>
 <br />
 
@@ -198,12 +194,20 @@ Now, once you open PHP Manager, go to Register PHP version, then click the three
 <img src="https://camo.githubusercontent.com/3c74fab1cff40be6811627a1c7de47ddca83ed8f8721852bf6122adbd2efe184/68747470733a2f2f692e696d6775722e636f6d2f416632664153512e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to sites -> Default -> osTicket On the right, click “Browse *:80”
+"Install osTicket v1.15.8. Download osTicket from the Installation Files Folder. Extract and copy the "upload" folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, rename "upload" to "osTicket"." (Also, restart your IIS in the manage sever. After these steps)
 </p>
 <br />
 
 <p>
 <img src="https://camo.githubusercontent.com/8aa8a1dde97b19f4567549730618369a2a7f4bd027abfd70c40eb59da17c4619/68747470733a2f2f692e696d6775722e636f6d2f756b53737848582e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go to sites -> Default -> osTicket On the right, click “Browse *:80”
+</p>
+<br />
+
+<p>
+<img src="https://camo.githubusercontent.com/c604a7032525992bc81891bdd18e05f3faf126b7862809de50e2a68365742bfc/68747470733a2f2f692e696d6775722e636f6d2f423069434470332e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 "After clicking on browser 80, a pop-up for osTicket should appear on your screen, Now you are halfway through the process.
@@ -218,13 +222,18 @@ Go to sites -> Default -> osTicket On the right, click “Browse *:80”
 <p>
 <img src="https://camo.githubusercontent.com/d0bdb5cfe595632a6985b5920f4e9b946539b9c629bc04d6510083a4fdb7af40/68747470733a2f2f692e696d6775722e636f6d2f6a4170486b39762e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+<img src="https://camo.githubusercontent.com/3e37ca526ed42bafed09c548482d4bbdf7d9950676e206adc48437602ca228ed/68747470733a2f2f692e696d6775722e636f6d2f7075394644714a2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <p>
 Follow, The step provided on the picture above
 </p>
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/3e37ca526ed42bafed09c548482d4bbdf7d9950676e206adc48437602ca228ed/68747470733a2f2f692e696d6775722e636f6d2f7075394644714a2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://camo.githubusercontent.com/b1ccb0a2cf49e47389008cfbc755d5444e4f700608d45794440e345a9c80bf18/68747470733a2f2f692e696d6775722e636f6d2f724438536e454d2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Rename: ost-config.php 1.From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
@@ -234,12 +243,12 @@ Rename: ost-config.php 1.From: C:\inetpub\wwwroot\osTicket\include\ost-samplecon
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/b1ccb0a2cf49e47389008cfbc755d5444e4f700608d45794440e345a9c80bf18/68747470733a2f2f692e696d6775722e636f6d2f724438536e454d2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://camo.githubusercontent.com/64feb406d8bf7a9436af753ee29cc098b6f68ce7510236377c1a82cc019e18fa/68747470733a2f2f692e696d6775722e636f6d2f706557465974792e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/64feb406d8bf7a9436af753ee29cc098b6f68ce7510236377c1a82cc019e18fa/68747470733a2f2f692e696d6775722e636f6d2f706557465974792e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://camo.githubusercontent.com/7d39b02bb47cfed31ccc64ee4b652656c2ac2eecd1f0ce3b5122a0b36a70888f/68747470733a2f2f692e696d6775722e636f6d2f415361307a63582e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
