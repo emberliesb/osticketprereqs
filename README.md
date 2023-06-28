@@ -215,11 +215,6 @@ Go to sites -> Default -> osTicket On the right, click “Browse *:80”
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/c604a7032525992bc81891bdd18e05f3faf126b7862809de50e2a68365742bfc/68747470733a2f2f692e696d6775722e636f6d2f423069434470332e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-<p>
 <img src="https://camo.githubusercontent.com/d0bdb5cfe595632a6985b5920f4e9b946539b9c629bc04d6510083a4fdb7af40/68747470733a2f2f692e696d6775722e636f6d2f6a4170486b39762e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
@@ -253,7 +248,7 @@ Rename: ost-config.php 1.From: C:\inetpub\wwwroot\osTicket\include\ost-samplecon
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/7d39b02bb47cfed31ccc64ee4b652656c2ac2eecd1f0ce3b5122a0b36a70888f/68747470733a2f2f692e696d6775722e636f6d2f415361307a63582e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://camo.githubusercontent.com/048fb25b7c964783a27e1d1e1b33a6b4c5824e2678c5be679ca3c6f719d5443a/68747470733a2f2f692e696d6775722e636f6d2f6f5872545356722e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, Assign Permissions: ost-config.php ( Right Click, Click properties, Click security) Disable inheritance -> Remove All New Permissions -> Everyone -> All
@@ -261,7 +256,7 @@ Next, Assign Permissions: ost-config.php ( Right Click, Click properties, Click 
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://camo.githubusercontent.com/dca4e5677fc4c345b543767fd3c79bdf506a226387ee7a21a2ce0f1556db1a8c/68747470733a2f2f692e696d6775722e636f6d2f48726f564e78762e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Continue Setting up osTicket in the browser (click Continue)
@@ -269,12 +264,12 @@ Continue Setting up osTicket in the browser (click Continue)
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/048fb25b7c964783a27e1d1e1b33a6b4c5824e2678c5be679ca3c6f719d5443a/68747470733a2f2f692e696d6775722e636f6d2f6f5872545356722e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://camo.githubusercontent.com/6cf983973016f0b69f0311fc4bdafb0a8c0a8f1c439dbfa672d5263212ef45d7/68747470733a2f2f692e696d6775722e636f6d2f716a654568766e2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/dca4e5677fc4c345b543767fd3c79bdf506a226387ee7a21a2ce0f1556db1a8c/68747470733a2f2f692e696d6775722e636f6d2f48726f564e78762e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://camo.githubusercontent.com/142ef48e7197bbb1e4426475adbb358f357a0524556f1369e8d3fbf5311ffc73/68747470733a2f2f692e696d6775722e636f6d2f32614b535564422e706e67)"80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download HeidiSQL. ( Follow These Steps) 1.Open Heidi SQL 2.Create a new session, root/Password1 3.Connect to the session 4.Create a database called “osTicket
@@ -282,7 +277,7 @@ Download HeidiSQL. ( Follow These Steps) 1.Open Heidi SQL 2.Create a new session
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://camo.githubusercontent.com/3e135bc17f3fb5dbae915611e7731f1458086716c638c5ace61d2d8fc5ab370b/68747470733a2f2f692e696d6775722e636f6d2f507152396464712e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Continue Setting up osticket in the browser MySQL Database: osTicket, MySQL Username: root, MySQL Password: Password1, Click “Install Now!”
@@ -290,33 +285,9 @@ Continue Setting up osticket in the browser MySQL Database: osTicket, MySQL User
 <br />
 
 <p>
-<img src="https://camo.githubusercontent.com/6cf983973016f0b69f0311fc4bdafb0a8c0a8f1c439dbfa672d5263212ef45d7/68747470733a2f2f692e696d6775722e636f6d2f716a654568766e2e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
-</p>
-<br />
-
-<p>
-<img src="https://camo.githubusercontent.com/142ef48e7197bbb1e4426475adbb358f357a0524556f1369e8d3fbf5311ffc73/68747470733a2f2f692e696d6775722e636f6d2f32614b535564422e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
-</p>
-<br />
-
-<p>
-<img src="https://camo.githubusercontent.com/3e135bc17f3fb5dbae915611e7731f1458086716c638c5ace61d2d8fc5ab370b/68747470733a2f2f692e696d6775722e636f6d2f507152396464712e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
-</p>
-<br />
-
-<p>
 <img src="https://camo.githubusercontent.com/4c9db5fe512be9ba350f591b54a0b12581839ac9620102b420242bef467acdb9/68747470733a2f2f692e696d6775722e636f6d2f5a6769676a76642e706e67" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+hopefully it is installed with no errors! Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 </p>
 <br />
